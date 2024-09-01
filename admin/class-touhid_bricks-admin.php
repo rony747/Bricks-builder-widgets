@@ -89,7 +89,8 @@ public function check_bricks_theme_active() {
   }
 public function load_bricks_widgets() {
 	$element_files = [
-		__DIR__ . '/widgets/element-test.php',
+		__DIR__ . '/widgets/rating-widget.php',
+		__DIR__ . '/widgets/pdf-viewer.php',
 	];
 
 	foreach ( $element_files as $file ) {
