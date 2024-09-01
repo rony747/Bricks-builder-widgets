@@ -1,0 +1,15 @@
+/*.touhid_bricks_rating-widget .tb_rating-icons {*/
+/*    display: inline-flex;*/
+/*    gap: var(--tbr-icon-spacing);*/
+/*}*/
+
+/*.touhid_bricks_rating-widget .tb_rating-icon{*/
+/*    font-size:var(--tbr-icon-size);*/
+/*}*/
+/*.touhid_bricks_rating-widget .tb_rating-icon.marked, .touhid_bricks_rating-widget .tb_rating-icon.half-marked{*/
+/*    color:var(--tbr-marked-color);*/
+/*}*/
+
+/*.touhid_bricks_rating-widget .tb_rating-icon.unmarked{*/
+/*    color:var(--tbr-unmarked-color);*/
+/*}*/
